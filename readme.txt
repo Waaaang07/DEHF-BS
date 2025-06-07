@@ -1,1 +1,0 @@
-DEHF.ipynb为波段选择模型的源代码，运行后在当前文件夹下生成selected_bands.txt文件；new_SVM文件夹为高光谱图像分类的MATLAB代码，得到selected_bands.txt后，运行.\new_SVM\packages\svm\run.m，生成5-50波段的OA结果result.xlsx。
